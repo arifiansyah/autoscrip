@@ -1,0 +1,2 @@
+# autoscrip
+Autoscript VPS Debian
